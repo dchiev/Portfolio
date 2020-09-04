@@ -21,6 +21,17 @@ section {
      margin: 0px 15px 15px 0px;
 }
 
-p {
-    float: left;
+.preview-text {
+    text-shadow: 2px 2px black;
 }
+
+img {
+    width: 50%; 
+    margin: auto; 
+}
+/* Changes the color of the carousel indicator*/
+
+.carousel-indicators li {
+    background-color: #dc3545;
+}
+
