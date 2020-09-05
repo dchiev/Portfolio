@@ -1,0 +1,74 @@
+.my-portfolio {
+    font-size: 2em;
+}
+
+nav {
+    border-color: white;
+    border-bottom: solid;
+}
+
+main {
+    height: 75%;
+    padding-top: 50px;
+}
+section {
+    width: 65%;
+    height: 65%;
+    background-color: white;
+}
+
+.profile-pic {
+    float: left;
+     margin: 0px 15px 15px 0px;
+}
+
+.preview-text {
+    text-shadow: 2px 2px black;
+}
+
+/* Centers images in carousel*/
+img {
+    width: 50%; 
+    margin: auto; 
+}
+
+/* Changes the color of the carousel indicator*/
+.carousel-indicators li {
+    background-color: #dc3545;
+}
+
+main h2 {
+    text-align: center;
+    color:white;
+    padding-bottom: 10px;
+}
+
+.get-to-know {
+    font-family: 'Pacifico', cursive;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: solid;
+    border-color: white;
+
+}
+
+.social-media img {
+    width: 18px;
+    height: 18px;
+    margin: 5px;
+}
+
+.footer-image {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+h6 {
+    margin:10px;
+    
+}
