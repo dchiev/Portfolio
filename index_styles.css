@@ -50,7 +50,7 @@ main h2 {
 
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     border-top: solid;
