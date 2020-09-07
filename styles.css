@@ -48,7 +48,20 @@ main h2 {
     margin-bottom: 50px;
 }
 
+.preview-gallery {
+    padding: 50px;
+}
 
+.preview-gallery img:hover {
+    opacity:0.3 ;
+}
+
+.overlay-text{
+    display:none;
+}
+.overlay-text:hover  {
+    display: block;
+  }
 
 footer {
     position: fixed;
