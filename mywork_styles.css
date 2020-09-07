@@ -1,0 +1,30 @@
+
+nav {
+    border-color: white;
+    border-bottom: solid;
+}
+
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: solid;
+    border-color: white;
+    background: #272b30;
+
+}
+
+.social-media img {
+    width: 18px;
+    height: 18px;
+    margin: 5px;
+}
+
+.footer-image {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
