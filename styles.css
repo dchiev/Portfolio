@@ -52,16 +52,24 @@ main h2 {
     padding: 50px;
 }
 
-.preview-gallery img:hover {
-    opacity:0.3 ;
+.preview-gallery img {
+    padding: 50px;
 }
 
-.overlay-text{
-    display:none;
+.preview-gallery h4 {
+    text-align: center;
 }
-.overlay-text:hover  {
-    display: block;
-  }
+
+.preview-gallery a:hover img:hover {
+    opacity:0.3 ;
+    text-decoration: underline;
+}
+
+.contact-info img {
+    width: 18px;
+    height: 18px;
+    margin: 5px;
+}
 
 footer {
     position: fixed;
