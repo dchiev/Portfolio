@@ -5,7 +5,7 @@
 2. I then made the nav bar and footer using Boostrap Components.
 3. I then created the new pages (i.e. My Work and Contact) and linked to to the appropiate nav elements.
 4. Continuing on the Index page, I created a carousel displaying my "featured work". I sized the images a bit smaller to allow the navigation arrows to be seen clearly.
-<img src="./assets/readme_assets/Gallery.png" height="50" width="50">
+<img src="./assets/readme_assets/Gallery.png" height: 50% width: 50%>
 
 5. I then proceeded to with the about me section with a single column and rows from bootstrap.
 
@@ -22,6 +22,6 @@
 
 I then ran each page through the validator with litte to no errors (or any that broke the page). 
 
-<img src="./assets/readme_assets/IndexValidate.png">
-<img src="./assets/readme_assets/MyWorkValidate.png">
-<img src="./assets/readme_assets/ContactValidate.png">
+<img src="./assets/readme_assets/IndexValidate.png" height: 50% width: 50%>
+<img src="./assets/readme_assets/MyWorkValidate.png" height: 50% width: 50%>
+<img src="./assets/readme_assets/ContactValidate.png" height: 50% width: 50%>
