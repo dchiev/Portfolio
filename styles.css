@@ -34,9 +34,13 @@ main img {
 
 main h2 {
     text-align: center;
-    color:white;
     padding-bottom: 10px;
 }
+
+h2, h3 {
+    color:white
+}
+
 
 .photo {
     padding-top: 30px;
